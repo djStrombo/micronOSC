@@ -4,7 +4,7 @@
 
 A standalone TouchOSC editor for the **Alesis Micron**, controlled live over MIDI — no computer or Max/MSP required to run it.
 
-<img src="images/OSC1.PNG" alt="Oscillators page" width="300"> <img src="images/FILTERS.PNG" alt="Filters page" width="300">
+<img src="images/OSC1.PNG" alt="Oscillators page" width="400"> <img src="images/FILTERS.PNG" alt="Filters page" width="400">
 
 > This project is not a fork. It's a standalone TouchOSC layout built using the SysEx mapping, NRPN architecture and panel design from the [Miniak Patch Editor](https://github.com/crosslandwa/miniak-patch-editor), adapted from the Akai Miniak to the Alesis Micron, published with the consent of both original authors. See *Credits* below.
 
