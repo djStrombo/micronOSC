@@ -1,4 +1,4 @@
-# MicronOSC
+# micronOSC
 
 [![Based on Miniak Patch Editor](https://img.shields.io/badge/based%20on-Miniak%20Patch%20Editor-blue)](https://github.com/crosslandwa/miniak-patch-editor)
 
@@ -24,7 +24,7 @@ The Alesis Micron and the Akai Miniak share essentially the same architecture an
 
 ## Getting started
 
-1. Download `MicronOSC.tosc` from this repo.
+1. Download `micronOSC.tosc` from this repo.
 2. Open it in the TouchOSC editor, or load it directly on the app.
 3. Connect your MIDI interface in TouchOSC's connection settings.
 4. Press **REFRESH** on any page to pull the current patch from the Micron.
