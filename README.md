@@ -6,6 +6,9 @@ A standalone TouchOSC editor for the **Alesis Micron**, controlled live over MID
 
 > This project is not a fork. It's a standalone TouchOSC layout built using the SysEx mapping, NRPN architecture and panel design from the [Miniak Patch Editor](https://github.com/crosslandwa/miniak-patch-editor), adapted from the Akai Miniak to the Alesis Micron, published with the consent of both original authors. See *Credits* below.
 
+![MicronOSC screenshot](images/OSC1.png)
+![MicronOSC screenshot](images/FILTERS.png)
+
 The Alesis Micron and the Akai Miniak share essentially the same architecture and SysEx format, so this should also work with the Alesis Ion.
 
 ## What it does
